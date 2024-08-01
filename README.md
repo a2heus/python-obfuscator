@@ -30,4 +30,4 @@ exec(loads(b"\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x0
 
 ## Note :
 
-You can change the variable named JUNK_DATA by your own signature (for example replacing __skid__ by __hash__)
+You can change the variable named JUNK_DATA by your own signature (for example replacing ```__skid__``` by ```__hash__```)
